@@ -1,0 +1,137 @@
+[
+  {
+		"id": "1",
+		"name": "Max",
+		"age": "4",
+		"breed": "SRD",
+		"sex": "male",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1500309725725-09d5f645646a"
+	},
+	{
+		"id": "2",
+		"name": "Molly",
+		"age": "3",
+		"breed": "SRD",
+		"sex": "female",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1505656029707-0fd14cabd9ec"
+	},
+	{
+		"id": "3",
+		"name": "Lola",
+		"age": "4",
+		"breed": "SRD",
+		"sex": "female",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/reserve/UzWklzFdRBSbkRKhEnvc_1-6128.jpg"
+	},
+	{
+		"id": "4",
+		"name": "Buddy",
+		"age": "6",
+		"breed": "SRD",
+		"sex": "male",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1500165974561-f16bc21927a3"
+	},
+	{
+		"id": "5",
+		"name": "Roxy",
+		"age": "5",
+		"breed": "SRD",
+		"sex": "female",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1508109657675-38fe91fb2ada"
+	},
+	{
+		"id": "6",
+		"name": "Luna",
+		"age": "4",
+		"breed": "SRD",
+		"sex": "female",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1487341290491-1081724e5844"
+	},
+	{
+		"id": "7",
+		"name": "Elvis",
+		"age": "3",
+		"breed": "SRD",
+		"sex": "male",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1509005084666-3cbc75184cbb"
+	},
+	{
+		"id": "8",
+		"name": "Sadie",
+		"age": "3",
+		"breed": "SRD",
+		"sex": "female",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1518815068914-038920b6f0c6"
+	},
+	{
+		"id": "9",
+		"name": "Apollo",
+		"age": "5",
+		"breed": "SRD",
+		"sex": "male",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1507865587487-696572e69047"
+	},
+	{
+		"id": "10",
+		"name": "Maggie",
+		"age": "4",
+		"breed": "SRD",
+		"sex": "female",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1503256207526-0d5d80fa2f47"
+	},
+	{
+		"id": "11",
+		"name": "Thor",
+		"age": "2",
+		"breed": "SRD",
+		"sex": "male",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1507145569372-d69bae8bc9a0"
+	},
+	{
+		"id": "12",
+		"name": "Ginger",
+		"age": "6",
+		"breed": "SRD",
+		"sex": "female",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1508109742312-c7d531211d11"
+	},
+	{
+		"id": "13",
+		"name": "Finn",
+		"age": "3",
+		"breed": "SRD",
+		"sex": "male",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1517662613602-4b8e02886677"
+	},
+	{
+		"id": "14",
+		"name": "Cookie",
+		"age": "7",
+		"breed": "SRD",
+		"sex": "female",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1511732782465-412b656f2291"
+	},
+	{
+		"id": "15",
+		"name": "Dakota",
+		"age": "5",
+		"breed": "SRD",
+		"sex": "male",
+		"description": "Dummy text to test",
+		"image": "https://images.unsplash.com/photo-1503324164927-dfb122c2041c"
+	}
+]
