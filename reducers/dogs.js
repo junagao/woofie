@@ -1,14 +1,11 @@
-let initialState = {
-  dogs: []
-};
+let initialState = [];
 
 const dogsReducer = (state = initialState, action) => {
   switch (action.type) {
   case 'GET_DOGS':
-    return {
-      ...state,
-      dogs: action.dogs,
-    };
+    return [
+      ...action.dogs,
+    ];
   default:
     return state;
   }
