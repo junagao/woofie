@@ -2,5 +2,7 @@
   "expo": {
     "sdkVersion": "26.0.0",
     "name": "petinder",
+    "FacebookAppID": "358905621286418",
+    "facebookDisplayName": "woofie",
   }
 }

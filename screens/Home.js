@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View } from 'react-native';
+import { View, StyleSheet, Text, Alert } from 'react-native';
 import { bindActionCreators } from 'redux';
 import * as actionCreators from '../actions';
 import { connect } from 'react-redux';
@@ -10,9 +10,25 @@ import data from '../data/dogData.json';
 class Home extends Component {
 
   componentDidMount() {
+    this.login();
     this.fetchDogs();
   }
 
+  login = async () => {
+    const { type, token } = await Expo.Facebook.logInWithReadPermissionsAsync('358905621286418', {
+      permissions: ['public_profile'],
+    });
+    if (type === 'success') {
+      // Get the user's name using Facebook's Graph API
+      const response = await fetch(
+        `https://graph.facebook.com/me?access_token=${token}`);
+      Alert.alert(
+        'Logged in!',
+        `Hi ${(await response.json()).name}!`,
+      );
+    }
+  }
+  
   fetchDogs = () => {
     this.props.getDogs(data);
   }
