@@ -41,19 +41,19 @@ npm start
 * [Expo](https://expo.io) - Build cross-platform native apps
 * [Firebase](https://firebase.google.com) - Realtime database and authentication with Facebook
 * [Sketch](https://www.sketchapp.com) - Vector design tool entirely focused on user interface design
-* Love, lots of love
+* Love, lots of love ♥
 
 
 ## Contributing
 
-Improvements are welcome ♥  
+Improvements are welcome :)
 
 Fork the repo and do your thing. Push to your fork and submit a pull request.
 
 
 ## Author
 
-Juliane Nagao - [![LinkedIn](https://i.imgur.com/sLCgM5h.png)](https://www.linkedin.com/in/junagao/) [![Github](https://i.imgur.com/9eAyxaw.png)](https://github.com/junagao) - julianens@gmail.com
+Juliane Nagao - [Github](https://github.com/junagao) - [LinkedIn](https://www.linkedin.com/in/junagao/)
 
 
 ## License
