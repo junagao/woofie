@@ -1,10 +1,15 @@
 <p align="center">
-<img src="https://i.imgur.com/fcVCn24.png">
+  <img src="https://i.imgur.com/fcVCn24.png" />
 </p>
 
 
 > woofie is a "tinder for dogs" cross platform mobile app (iOS and Android). It helps you find new buddies or a romantic date for your dog.
 
+## Screenshots
+
+<p align="center">
+  <img src="https://i.imgur.com/9VBfyLc.png" />
+</p>
 
 ## Getting started
 
